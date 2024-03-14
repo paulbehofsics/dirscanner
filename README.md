@@ -1,6 +1,6 @@
 # Dirscanner
 
-This is a simple directory scanner that scans a directory every few minutes and writes file metadata into a database and features a REST-API to access it. The number of minutes between scans can be configured.
+This is a simple directory scanner that scans a directory every few minutes, writes file metadata into a database and features a REST-API to access it. The number of minutes between scans can be configured.
 
 ## Running the application
 
